@@ -12,9 +12,7 @@
 - [ About The Project](#about-the-project)
   - [ Built with](#built-with)
   - [ Resources](#resources)
-- [ Prerequisites](#prerequisites)
-  - [ Connect to GitHub](#connect-to-github)
-  - [ Launch the Website](#launch-the-website)
+- [ How to Run the App](#how-to-run-the-app)
 - [ How to Contribute](#how-to-contribute)
 
 <br>
@@ -22,16 +20,17 @@
 
 ## About The Project
 
-![Image](https://github.com/STEM-E-Youth-Career-Development-Program/app-7/assets/154091778/8b945447-424d-4575-b09b-f560b043c25c)
+This app will help Eon students find their homework and apply what they have learned during tutor sessions. It is filled with many short questions and quizzes to help them retain information.
 
 <br>
 
 
 ### Built With
 
+* ![Static Badge](https://img.shields.io/badge/JavaScript-%23212329?style=for-the-badge&logo=JavaScript)
 * ![Static Badge](https://img.shields.io/badge/HTML-%23212329?style=for-the-badge&logo=HTML5)
 * ![Static Badge](https://img.shields.io/badge/CSS-%23212329?style=for-the-badge&logo=CSS3)
-* ![Static Badge](https://img.shields.io/badge/JavaScript-%23212329?style=for-the-badge&logo=JavaScript)
+* ![Static Badge](https://img.shields.io/badge/React_Native-%23212329?style=for-the-badge&logo=React)
 
 <br>
 
@@ -51,21 +50,12 @@ In addition, we recommend using Microsoft's Visual Studio Code editor with some 
 <br>
 
 
-## Prerequisites
+## How to Run the App
 
-[<img src="https://github.com/STEM-E-Youth-Career-Development-Program/app-7/assets/154091778/590c3ffd-efed-49af-a959-78042868db41">](https://youtu.be/GCCUwvlbDQ8)
-[Not working? Use this link](https://youtu.be/GCCUwvlbDQ8)
-
-<br>
-
-
-### Run The App
-
-[<img src="https://github.com/STEM-E-Youth-Career-Development-Program/app-7/assets/154091778/415bdbfe-cdb5-4163-9f59-cd98e6705bf4">](https://youtu.be/Br9dBeiTdIU)
-[Not working? Use this link](https://youtu.be/Br9dBeiTdIU)
+[<img src="https://github.com/STEM-E-Youth-Career-Development-Program/app-7/assets/154091778/590c3ffd-efed-49af-a959-78042868db41">](https://youtu.be/nBq75f8JVZg)
+[Not working? Use this link](https://youtu.be/nBq75f8JVZg)
 
 <br>
-
 
 ## How to Contribute
 
